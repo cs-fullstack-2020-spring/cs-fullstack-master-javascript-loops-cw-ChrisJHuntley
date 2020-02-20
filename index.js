@@ -39,4 +39,11 @@
 // console.log(list)
 // }
 // Exercise 4*************************************
+let high_scores = [2112, 1024, 9000, 9001, 7200, 2600, 10000]
+for(high_scores=high_scores.length; high_scores<=high_scores.length; high_scores++){
+    console.log(high_scores)
+    if(high_scores>9000){
+        console.log('Over 9000')
+    }
+}
 
